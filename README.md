@@ -21,7 +21,12 @@ Go to the releases tab or click [here](https://github.com/integeraxis/png2mcm/re
 - Click the download button:
 <img width="1683" height="503" alt="image" src="https://github.com/user-attachments/assets/84f337f6-bae9-434d-aba4-bd7107379681" />
 
-- Open the .png file in a image editor of your choice and edit the font. Warning: The only colors you can use are gray(#7F7F7F), black(#000000) and white(#FFFFFF) (Do not change the red lines!)
+### Editing:
+- Open the .png file in a image editor of your choice and edit the font.
+- If you don't know any image editor these are some good ones: Microsoft paint, [Pixelorama](https://orama-interactive.itch.io/pixelorama) (online or download), [Piskel](https://www.piskelapp.com/p/create/sprite/) (online editor), 
+- Warning: The only colors you can use are gray(#7F7F7F), black(#000000) and white(#FFFFFF) (Do not change the red lines!)
+
+### Exporting:
 - Open png2mcm and click "Open a Betaflight font .png" and open the font you just made.
 - It should say it converted the file correctly. You can find your .mcm font file in the same folder as the .png file.
 - Open Betaflight configurator and connect you quad.
