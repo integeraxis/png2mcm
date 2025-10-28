@@ -28,6 +28,7 @@ Go to the releases tab or click [here](https://github.com/integeraxis/png2mcm/re
 - If you don't know any image editor these are some good ones: Microsoft paint, [Pixelorama](https://orama-interactive.itch.io/pixelorama) (online or download), [Piskel](https://www.piskelapp.com/p/create/sprite/) (online editor), 
 - Warning: The only colors you can use are gray(#7F7F7F), black(#000000) and white(#FFFFFF) (Do not change the red lines!)
 - Don't try to change the betaflight logo, you can upload your own logo in Betaflight-configurator.
+- There's also a [font file with the gray background removed](font-bg-removed.png)  (makes the font easier to edit if your image editor supports multiple layers). Watch out, this file doesn't work with png2mcm out of the box, you need to still add the gray(#7F7F7F) background yourself.
 
 ### Exporting:
 - Open png2mcm and click "Open a Betaflight font .png" and open the font you just made.
